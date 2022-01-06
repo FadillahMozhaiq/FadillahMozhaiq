@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi, I'm Fadillah <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="85"></h1>
+<h2 align="center">Associate Android Developer Certified</h2>
 <h3 align="center">A Software Developer from East Borneo</h3>
 
 <p align="center"><em>
@@ -43,7 +44,7 @@ Here are some ideas to get you started:
 - Obfuscation
 - SSL Pinning
 
-## 🛠 Tools & Technologies
+## 🛠 Other Tools & Technologies
 - MVVM, Notion
 - Laravel, Figma, Flutter
 
